@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=💕sooyeon💕&fontSize=90" />
   	<div align="center">
     <p>⚒️Tech Stack⚒️</p>
@@ -14,7 +14,8 @@
     <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white" />
     <img src="https://img.shields.io/badge/visualstudio-512BD4?style=flat&logo=visualstudio&logoColor=white" />
   </div>
-  <div>
+  <div align="center">
+    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skimy11&layout=compact"><br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=skimy11&show_icons=true">
   </div>  
